@@ -1,3 +1,3 @@
 # frontend_starbucks_clone
 
-[DEMO](https://steady-cannoli-7e417e.netlify.app)
+[DEMO](https://tranquil-zabaione-4bec4f.netlify.app)
